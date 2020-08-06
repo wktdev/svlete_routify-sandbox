@@ -17,7 +17,6 @@
 </script>
 
 <div>
-
 	<Form/>
     <TodoList/>
 
