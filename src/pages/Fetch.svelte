@@ -13,8 +13,8 @@ END NOTEs -->
 
 <script>
 	import { onMount } from 'svelte';
-	import TodoList  from './todo_list.svelte';
-	import Form from './Form.svelte';
+	import TodoList  from './TodoList.svelte';
+	import Form from './form.svelte';
 	import {fetchData} from './GetData.svelte';
   
 

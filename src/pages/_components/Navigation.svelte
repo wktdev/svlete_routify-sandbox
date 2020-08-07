@@ -4,9 +4,7 @@
   const links =
   [
     ['./index', 'Home'], //add index if you don't want siblings to be considered children
-    ['./blog', 'Blog'],
-    ['./about', 'About'],
-    ['./contact', 'Contact']
+    ['./form', 'Form']
   ]
 </script>
 

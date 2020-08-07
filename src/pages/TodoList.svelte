@@ -5,9 +5,9 @@
     
     let todos = undefined;
     todoStore.subscribe((data)=>{
-     todos = data;
+      todos = data;
 
-     console.log(todos)
+
     })
 
 
