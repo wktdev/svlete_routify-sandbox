@@ -1,6 +1,6 @@
 <script>
 	
-	import { todoStore } from './todo_store';
+	import { todoStore } from './_todo_store';
 
     
     let todos = undefined;
