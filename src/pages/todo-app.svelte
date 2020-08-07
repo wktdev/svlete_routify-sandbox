@@ -3,6 +3,7 @@
 	import Form from './_form.svelte';
 </script>
 
+<Form/>
+<TodoList/>
 
-	 <Form/>
-    <TodoList/>
+
