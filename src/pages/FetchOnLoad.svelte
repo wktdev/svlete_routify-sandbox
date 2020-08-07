@@ -3,11 +3,8 @@
 
 <script>
 	import { onMount } from 'svelte';
-	import TodoList  from './todo_list.svelte';
-	import Form from './Form.svelte';
 	import {fetchData} from './GetData.svelte';
-  import Navigation from './_components/Navigation.svelte';
-     
+
   // import Button from '@smui/button';
 
    let apiData = [];
@@ -22,9 +19,6 @@
 </script>
 
 <div>
-  <Navigation/>
-	  <Form/>
-    <TodoList/>
 
     {#each reactiveApiData as item}
      <li>{item}</li>
