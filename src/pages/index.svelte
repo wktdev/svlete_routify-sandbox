@@ -1,14 +1,7 @@
-<script>
 
-  import Navigation from './_components/Navigation.svelte';
-     
-
-  
-</script>
 
 <div>
-  <Navigation/>
-
+ Landing Page
 
 </div>
 
